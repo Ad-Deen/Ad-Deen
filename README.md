@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">Where to Find Me</h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ad-deen-mahbub-2bb6211a0/" target="_blank">
