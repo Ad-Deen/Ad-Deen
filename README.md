@@ -1,40 +1,76 @@
 <h1 align="center">Hi 👋, I'm Ad-Deen Mahbub</h1>
-<h3 align="center">If you find my projects in the repository helpful and if our interests coincide let's collaborate. I am also looking for further opportunities in the field of robotics that's why I'm showcasing my skillsets here.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ad-Deen/Ad-Deen/main/4j.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-deen&label=Profile%20views&color=0e75b6&style=flat" alt="ad-deen" /> </p>
+<h3 align="center">
+    If you find my projects in the repository helpful and if our interests coincide, let's collaborate. 
+    I am also looking for further opportunities in the field of robotics and am showcasing my skillsets here.
+</h3>
 
-- 🔭 I’m currently working on **Autonomous racing with RL**
-
-- 🌱 I’m currently learning **Reinforced Learning Architecture**
-
-- 💬 Ask me about **ROS, Gazebo, Simulations, CAD Designs, Digital Logic Design**
-
-- 📫 How to reach me **https://www.linkedin.com/in/ad-deen-mahbub-2bb6211a0/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ad-deen-mahbub-2bb6211a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ad-deen-mahbub-2bb6211a0/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sigmahermit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sigmahermit/" height="30" width="40" /></a>
+<p align="center">
+    <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/Ad-Deen/Ad-Deen/main/4j.gif" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://docs.ros.org/en/humble/index.html" target="_blank" rel="noreferrer"> <img src="https://docs.ros.org/en/humble/_static/humble-small.png" alt="ROS2" width="40" height="40"/> </a>
- <a align="left"> <a href="https://gymnasium.farama.org/" target="_blank" rel="noreferrer"> <img src="https://gymnasium.farama.org/_static/img/gymnasium_black.svg" alt="OpenAi_Gym" width="40" height="40"/> </a>
- <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos_small-0534ff73fffc6a43177f0ec67b7f0ca5b71b50308660dba809c2c325339c7d06.png" alt="Gazebo" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40"/> </a>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/press/logo_vertical_color_light.png" alt="Godot" width="40" height="40"/> </a> 
-   <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>   
-   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>   
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ad-deen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-deen&show_icons=true&locale=en&layout=compact" alt="ad-deen" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-deen&show_icons=true&locale=en" alt="ad-deen" /></p>
+- 🔭 **Currently working on:** Autonomous racing with RL
+- 🌱 **Currently learning:** Reinforced Learning Architecture
+- 💬 **Ask me about:** ROS, Gazebo, Simulations, CAD Designs, Digital Logic Design
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-deen&" alt="ad-deen" /></p>
+---
+
+<h3 align="center">Connect With Me</h3>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/ad-deen-mahbub-2bb6211a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-user-name" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/your-user-name" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/sigmahermit/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS2-%231e90ff.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" width="105" height="40" />
+  <img src="https://img.shields.io/badge/OpenAI%20Gym-%231a73e8.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Gym" width="130" height="40" />
+  <img src="https://img.shields.io/badge/Gazebo-%23404040.svg?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="105" height="40" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" width="105" height="40" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" width="105" height="40" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Fusion%20360-%23087AEB.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" width="130" height="40" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="105" height="40" />
+  <img src="https://img.shields.io/badge/MATLAB-%23FF7600.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" width="105" height="40" />
+</p>
+
+
+---
+
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-deen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ad-deen&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-deen&" alt="GitHub Streak" />
+</p>
